@@ -1,4 +1,5 @@
-# ganja.js - Geometric Algebra for javascript.
+# 🦆: Geometric Algebra
+or JavaScript: The Good Parts
 
 **G**eometric **A**lgebra - **N**ot **J**ust **A**lgebra
 
